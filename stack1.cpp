@@ -76,8 +76,9 @@ int main() {
 
     s.pop();
     s.peek();
-
     s.display();
+
+   
 
     return 0;
 }
